@@ -1,4 +1,4 @@
-# ecm
+# Electricity Consumption Model (ECM)
 Author: Luciano Siebert (siebert.luciano@gmail.com)  May 22, 2020.  
 
 References: 
